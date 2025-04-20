@@ -1,0 +1,19 @@
+{
+  "Results": [
+    {
+      "Vulnerabilities": [
+        {
+          "Title": "CVE-2024-1234 in openssl",
+          "Severity": "CRITICAL",
+          "CVSS": {
+            "bitnami": {
+              "V3Score": 9.8
+            }
+          },
+          "CweIDs": ["CWE-79"],
+          "References": ["https://security-tracker.debian.org/tracker/CVE-2024-1234"]
+        }
+      ]
+    }
+  ]
+}
