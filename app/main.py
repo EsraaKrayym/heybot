@@ -77,6 +77,7 @@ def build_prompt_with_logs(logs):
             f"{logs_as_text}\n\n"
             f"Now roast each one with:\n"
             f"- Gordon Ramsay-level intensity\n"
+            
             f"- Stand-up comedian timing\n"
             f"- DevOps intern frustration\n"
             f"Bonus points for Sheldon Cooper references!"
